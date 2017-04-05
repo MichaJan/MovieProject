@@ -16,15 +16,23 @@ os
 webbrowser
 re
 ------------------------------------------------------------
-How to run the programme
+How to run the program
 
 Requires Python version 2.X to be installed.
 If you do not have Python please visit: 
 https://www.python.org/downloads/ and follow the instructions.
 
-Provided that you do have python
-1. open a command line in the same working directory as your MovieProject files are 
-	and type in : python entertaining_center.py
+Provided that you do have Python
+1. Open a command line in the same working directory as your MovieProject files are 
 
+2. Type in : python entertaining_center.py
+
+The file which creates the website is called entertaining_center.py, this one needs to be executed
+and ran.
+
+
+
+Contact:
 For any questions please contact me on:
-mikael.janek@gmail.com	
+mikael.janek@gmail.com	- e-mail
+@mikael.janek - twitter
