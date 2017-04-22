@@ -1,4 +1,4 @@
-##Python programme for creating and launching a movie website.
+# Python programme for creating and launching a movie website.
 
 Project consists of three separate python files:
 1. media.py = used for creating classes
