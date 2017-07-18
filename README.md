@@ -6,7 +6,7 @@
 2. fresh_tomatoes.py = creates HTML file in a working directory, and runs the file.
 
 3. entertaining_center.py = creating of class instances for specific movies/tv shows. 
-The website will open and shows a gallery of movies and tv shows, which can be clicked to show trailers.
+The website opens and shows a gallery of movies and tv shows, which can be clicked to show trailers.
 
 ------------------------------------------------------------
 ### Required Libraries and Dependencies
